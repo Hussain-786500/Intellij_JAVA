@@ -1,4 +1,4 @@
-# IntelliJ specific files
+# IntelliJ IDEA
 .idea/
 *.iml
 
@@ -6,7 +6,12 @@
 out/
 build/
 
-# System files
+# OS generated files
 *.class
 *.log
 .DS_Store
+Thumbs.db
+
+# Maven and Gradle (agar use kar rahe ho)
+target/
+.gradle/
