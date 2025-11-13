@@ -1,0 +1,12 @@
+# IntelliJ specific files
+.idea/
+*.iml
+
+# Build output
+out/
+build/
+
+# System files
+*.class
+*.log
+.DS_Store
