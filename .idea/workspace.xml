@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecb845e0-dbea-4769-a36f-422d30c79d31" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="35kNjIKc9vUy22Ywywh9JeMcYqS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Add2Matrix.executor": "Run",
+    "Application.ArrayOfArray.executor": "Run",
+    "Application.Basic2Darray.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.PrintSum.executor": "Run",
+    "Application.ProgramStore.executor": "Run",
+    "Application.RotateMatrix.executor": "Run",
+    "Application.RowToColumn.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
+    "Application.TransposeMatrix.executor": "Run",
+    "Application.WaveformMatrix.executor": "Run",
+    "Application.practiceArray.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Hp/IdeaProjects/MultiDiamentionaArray/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Basic2Darray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic2Darray" />
+      <module name="MultiDiamentionaArray" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MultiDiamentionaArray" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MultiDiamentionaArray" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecb845e0-dbea-4769-a36f-422d30c79d31" name="Changes" comment="" />
+      <created>1763650243781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763650243781</updated>
+    </task>
+    <servers />
+  </component>
+</project>
