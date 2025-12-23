@@ -12,28 +12,30 @@ public class NumberBridge {
         System.out.println("Enter n");
         int n = sc.nextInt();
 
-        //condition check.........
-
+        //  ---- condition check ----
+        
+        // first row----
         for(int i =1; i <= n*2-1; i++){
             System.out.print(i + " ");
         }
         System.out.println();
-        n--;
-        int nsp = 1;
-        for(int i = 1; i <= n; i++){
-            int a = 1;
-            for(int j = 1; j <= n+1-i; j++){
-                System.out.print(a++ + " ");
-            }
-            for(int j = 1; j <= nsp; j++){
-                System.out.print(" " + " ");
-                a++;
-            }
-            nsp += 2;
-            for(int j = 5; j <= n+5-i; j++){
-                System.out.print(a++ + " ");
-            }
-            System.out.println();
+
+        // remaining row----
+        for(int i = 1; i <= n-1; i++){
+
+       // left number print----
+        for(int i = 1; i <= n-i; i++){
+            System.out.print(j + " ");
         }
+        // spaces print----
+            for(int i = 1; i <= 2*i-1; i++){
+            System.out.print("  ")
+        }       
+            // right number print---
+            for(int i = n-i; i <= 1; i--){
+            System.out.print(j + " ")
+      }
+        System.out.print();
     }
+  }
 }
