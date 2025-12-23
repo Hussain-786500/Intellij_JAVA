@@ -1,11 +1,10 @@
 package com.compositPatternjava;
-
-import com.sun.security.jgss.GSSUtil;
-
+                                                      // * this loop for same number print 
+import com.sun.security.jgss.GSSUtil;                 //    for(int i = n-i; i <= 1; i--)    //only last loop change
 import java.util.Scanner;
-public class NumberBridge {
-    public static void main(String[] args){
-
+public class NumberBridge {                           // * this loop for continuer number print
+    public static void main(String[] args){           //  for (int j = n + i; j <= 2 * n - 1; j++)
+                                                    
         //input number............
 
         Scanner sc = new Scanner(System.in);
@@ -35,7 +34,7 @@ public class NumberBridge {
             for(int i = n-i; i <= 1; i--){
             System.out.print(j + " ")
       }
-        System.out.print();
+        System.out.print();                           
     }
   }
 }
